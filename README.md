@@ -1,6 +1,6 @@
-# ACADEMIC PROJECTS: Demystifying-Customer-Satisfaction-for-a-Hotel
+# Academic Project: Demystifying-Customer-Satisfaction-for-a-Hotel
 
-## Syracuse University Coursework:Demystifying Customer Satisfaction for a Hotel using R    (Jan,2018 - May,2018) 
+## Syracuse University Coursework: Demystifying Customer Satisfaction for a Hotel   (Jan,2018 - May,2018) 
 MS Data Science Projects and coursework @ Syracuse University 
                                                                   
 - Tools & Techniques: R, Linear Regression, SVM, Naïve Bayes, Association Rules
@@ -324,20 +324,22 @@ andactionablestepscanbeusedbyHyattCorporationCEOtoimproveNPSScore.
 ü Guest_Room_H: Guest room satisfaction metric; value on a 1 to 10 scale
 ```
 - OnceagainlikeBoruta,AssociationRulesalsoprovedourassumptionandfactorshavingthehighestvariableimportancewere:(inthisorder)
-Ø Customer_SVC_H
-Ø Guest_Room_H
-Ø Condition_Hotel_H
-Ø Staff_Cared_H
-Ø Tranquility_H
-Ø Check_In_H
-Ø Internet_Sat_H
-Ø LimoService_PL
-Ø Spa_PL
+- Customer_SVC_H
+- Guest_Room_H
+- Condition_Hotel_H
+- Staff_Cared_H
+- Tranquility_H
+- Check_In_H
+- Internet_Sat_H
+- LimoService_PL
+- Spa_PL
 - The local patterns in full data get sometimes are mixed and hence might look like noise , Hence in order to get finer local patterns we, divided the data into specific Business and
 Leisure population. Having figured out that in order to generate patterns and association between the above important factors, Association Rules mining was performed which will
-helped predictingrulesthattellexactlywhatis thepatternbetweenthesefactors. **By understanding and improving on the recommendations, Hyatt will be able to increase %
+helped predictingrulesthattellexactlywhatis thepatternbetweenthesefactors.
+
+**By understanding and improving on the recommendations, Hyatt will be able to increase %
 Promoters and decrease % Detractors and this will help raise its overallNPS Score.**
 
 
-# Thank You.
+
 
